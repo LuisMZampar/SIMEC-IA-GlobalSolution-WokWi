@@ -5,14 +5,12 @@ O SIMEC é um sistema projetado para empresas, com o objetivo de monitorar e ger
 ## 🌟 Funcionalidades Principais
 - **Monitoramento em Tempo Real**: Acompanhe o consumo de energia por setores ou dispositivos da empresa.
 - **Dicas Personalizadas**: Receba insights específicos para otimizar o uso de energia.
-- **Gamificação**: Avalie o desempenho energético e ganhe "moedas corporativas sustentáveis" para incentivar práticas responsáveis.
 - **Relatórios Detalhados**: Acesse relatórios mensais com dados históricos para acompanhar e melhorar os resultados.
 
 ## 🎯 Objetivos
 1. Monitorar o consumo de energia por setor ou dispositivo.
 2. Fornecer recomendações para promover eficiência energética.
-3. Gamificar o consumo energético para engajar os colaboradores.
-4. Oferecer uma interface intuitiva e relatórios detalhados.
+3. Oferecer uma interface intuitiva e relatórios detalhados.
 
 ## 💡 Benefícios
 - **Redução de Custos**: Identifique e elimine desperdícios, reduzindo o consumo e os custos de energia.
