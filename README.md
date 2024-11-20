@@ -40,7 +40,7 @@ O SIMEC é um sistema projetado para empresas, com o objetivo de monitorar e ger
 
 ---
 
-## Link do WorkWi
+## Link do WokWi
 
 https://wokwi.com/projects/415022628856617985
 
