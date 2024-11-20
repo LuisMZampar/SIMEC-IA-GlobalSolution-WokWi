@@ -38,11 +38,6 @@ O SIMEC é um sistema projetado para empresas, com o objetivo de monitorar e ger
 
 ---
 
-## 🚀 Como Usar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/LuisMZampar/SIMEC-IA-GlobalSolution-WorkWi.git
-
 
 ## Arquivo JSON do NODE-RED
 
