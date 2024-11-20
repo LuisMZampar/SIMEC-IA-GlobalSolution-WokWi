@@ -11,7 +11,7 @@ O SIMEC é um sistema projetado para empresas, com o objetivo de monitorar e ger
 ## 🎯 Objetivos
 1. Monitorar o consumo de energia por setor ou dispositivo.
 2. Fornecer recomendações para promover eficiência energética.
-3. Gamificar o consumo energético para engajar os setores.
+3. Gamificar o consumo energético para engajar os colaboradores.
 4. Oferecer uma interface intuitiva e relatórios detalhados.
 
 ## 💡 Benefícios
