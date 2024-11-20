@@ -1,4 +1,4 @@
-Link do Video: 
+Link do Video: https://youtu.be/88anDV6_Qg0?si=Kedwh3MZKkfOMqVG
 
 # SIMEC: Sistema Integrado de Monitoramento de Energia Corporativa
 
